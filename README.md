@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**DavidSciMeow/DavidSciMeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+# 你好啊,欢迎光临本喵的Github :smile_cat:
+***
+## 微软外围技术组,萌喵电子信息技术组组长,
+## 电脑自小学通过老师指导进行研究,编程自高中自学
+## 本喵QQ:1500294830
+'''
+//如果你看到这里并尝试加我的QQ,请把三个验证信息自上而下填写
+var 验证信息1 = "Github";
+var 验证信息2 = $"{你的github用户名}"
+var 验证信息3 = $"{你加我的理由}"
+'''
+***
+### 远离城市喧嚣,夜间代码飘摇 
+### 清风拂过树梢,别人还在睡觉 
+### 空无一人的夜晚,寂静无声的浮躁
+### 这不是我一个人的代码,也不是进步的逍遥解药 :snowflake:
+### 不愿自己归来仍是少年,只求我自己不断向前跑 :sunny:
+***
+### 怎么了怎么了
+### 还好有你们陪我
+### 没什么没什么
+### 在心里不用说
+### 悲伤或难过还好总有一群人懂我
+### 是否 这就 是我坚持的理由
+***
