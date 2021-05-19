@@ -15,13 +15,13 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 <br/>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidscimeow)](https://github.com/davidscimeow/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidscimeow&layout=compact)
 <br/>
 ```
 //微软外围技术组(insider成员)
-//计算机自小学通过父亲办公室的老师指导进行研究
-//编程自高中自学
-//主修面向对象类语言(.net/C#),脚本语言(bat/linuxcode)早期学过部分,Python仅一年半经验
+//计算机自小学通过父亲办公室的老师指导进行研究,编程自高中自学
+//主修面向对象类语言(.net/C#)五年经验,脚本语言(bat/linuxcode)学过部分,Python仅一年半经验
 ```
 
 # Laugh Hard , Run Fast , Be Kind . :sunny: 
