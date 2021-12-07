@@ -1,7 +1,7 @@
 # 你好啊,欢迎光临本喵的Github :smile_cat:
 
 
-[![](https://img.shields.io/badge/Windows-10-green)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11%20Pro-red)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20Server-yellow)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20-007ACC?style=flat-square&logo=Visual-Studio&logoColor=ffffff)](https://visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
