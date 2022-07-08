@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidscimeow)](https://github.com/davidscimeow/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidscimeow&layout=compact)
 <br/>
 ```
 //微软外围技术组(insider成员)
