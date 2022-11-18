@@ -17,8 +17,10 @@
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidscimeow)](https://github.com/davidscimeow/github-readme-stats)
 <br/>
+
+# 已经有 ![Visitor Count](https://profile-counter.glitch.me/davidscimeow/count.svg) 人啦, 谢谢泥萌.
 ```
-//微软外围技术组(insider成员)
+//微软大数据云计算学院 (操作系统组) (insider成员)
 //计算机自小学通过父亲办公室的老师指导进行研究,编程自高中自学
 //主修面向对象类语言(.net/C#)五年经验,脚本语言(bat/linuxcode)学过部分,Python仅一年半经验
 ```
