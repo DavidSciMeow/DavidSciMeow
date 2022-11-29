@@ -18,7 +18,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidscimeow)](https://github.com/davidscimeow/github-readme-stats)
 <br/>
 
-# 已经有 ![Visitor Count](https://profile-counter.glitch.me/davidscimeow/count.svg) 人啦, 谢谢泥萌.
+# 已经有 ![Visitor Count](https://profile-counter.glitch.me/davidscimeow/count.svg) 人来过啦, 谢谢泥萌.
 ```
 //微软大数据云计算学院 (操作系统组) (insider成员)
 //计算机自小学通过父亲办公室的老师指导进行研究,编程自高中自学
