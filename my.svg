@@ -45,7 +45,6 @@
 					text-align: center;
 				}
 				h1 {
-					font-family: 'DynaPuff',cursive;
 					font-size: 50px;
 					line-height: 1.3;
 					letter-spacing: 5px;
@@ -56,15 +55,25 @@
 						0 3px 0 #bbbbbb,
 						0 4px 0 #bbbbbb,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: fadeIn ease-in-out 1s infinite alternate;
-				}
-				h1:hover:after{
-					content: "(ฅ´ω`ฅ)";
 					animation: rotate ease-in-out 1s infinite alternate;
+				}
+				h2{
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					color: #ff6699;
+					text-shadow:
+						0 1px 0 #bbbbbb,
+						0 2px 0 #bbbbbb,
+						0 3px 0 #bbbbbb,
+						0 4px 0 #bbbbbb,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: fadeIn,rotate ease-in-out 1s infinite alternate;
 				}
 			</style>
 			<div class="container">
-				<h1>(ฅ´ω`ฅ) DavidSciMeow </h1>
+				<h1>(ฅ´ω`ฅ) DavidSciMeow (ฅ´ω`ฅ)</h1>
+				<h2>Laugh Hard, Run Fast, Be Kind.</h2>
 			</div>
 		</div>
 	</foreignObject>
