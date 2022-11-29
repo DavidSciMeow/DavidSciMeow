@@ -61,12 +61,12 @@
 					animation: fadeIn ease-in-out 1s infinite alternate;
 				}
 				h1:hover:after{
-					content: "(ฅ´ω`ฅ) 鼠标什么的拿开啊啊啊~~";
+					content: "(ฅ´ω`ฅ)";
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
 			</style>
 			<div class="container">
-				<h1>DavidSciMeow (ฅ´ω`ฅ)</h1>
+				<h1>(ฅ´ω`ฅ) DavidSciMeow </h1>
 			</div>
 		</div>
 	</foreignObject>
