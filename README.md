@@ -19,10 +19,19 @@
        src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
 
   ****
+  
+<details> 
+	<summary>折叠诗.txt</summary>
+    
+  *OwO*
+	
   ### 怎么了 怎么了 还好有你们陪我 
   ### 没什么 没什么 在心里不用说 
   ### 悲伤或难过 还好总有人懂我  
   ### 是否 这就 是我坚持的理由
+    
+</details>
+ 
 
   ****
 
