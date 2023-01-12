@@ -11,9 +11,6 @@
 
   <img align="center"
        height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  <img align="center"
-       height="150em"
        src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSciMeow" />
   <img align="center"
        src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
