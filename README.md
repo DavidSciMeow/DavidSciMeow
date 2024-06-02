@@ -16,6 +16,11 @@
        src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
 
   ****
+
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSciMeow&theme=radical">
+  </p>
   
 <details> 
 	<summary>折叠诗.txt</summary>
