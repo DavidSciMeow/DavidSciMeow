@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidSciMeow/DavidSciMeow/238f4c03107f7aa7425314227d377cc433e1ad95/my.svg" alt="/" />
-
+  <p align = "center">
+      <img src="https://raw.githubusercontent.com/DavidSciMeow/DavidSciMeow/238f4c03107f7aa7425314227d377cc433e1ad95/my.svg" alt="/" />
+      <img src = "https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight&line_height=27">
+  </p>
   <a href="https://www.microsoft.com/windows/get-windows-11" ><img src="https://img.shields.io/badge/Windows-11%20Pro-red" /></a>
   <a href="https://ubuntu.com/" ><img src="https://img.shields.io/badge/Ubuntu-20.04%20Server-yellow" /></a>
   <a href="https://www.linuxfoundation.org/" ><img src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" /></a>
@@ -18,7 +20,6 @@
   ****
 
   <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight&line_height=27">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSciMeow&theme=radical">
   </p>
   
