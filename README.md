@@ -1,8 +1,9 @@
 <div align="center">
-  <p align = "center">
-      <img src="https://raw.githubusercontent.com/DavidSciMeow/DavidSciMeow/238f4c03107f7aa7425314227d377cc433e1ad95/my.svg" alt="/" />
-      <img src = "https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight&line_height=27">
-  </p>
+
+  <img src="https://raw.githubusercontent.com/DavidSciMeow/DavidSciMeow/238f4c03107f7aa7425314227d377cc433e1ad95/my.svg" alt="/" />
+  <br/>
+  <br/>
+  
   <a href="https://www.microsoft.com/windows/get-windows-11" ><img src="https://img.shields.io/badge/Windows-11%20Pro-red" /></a>
   <a href="https://ubuntu.com/" ><img src="https://img.shields.io/badge/Ubuntu-20.04%20Server-yellow" /></a>
   <a href="https://www.linuxfoundation.org/" ><img src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white" /></a>
@@ -10,19 +11,25 @@
   <a href="https://visualstudio.com/" ><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20-007ACC?style=flat-square&logo=Visual-Studio&logoColor=ffffff" /></a>
   <a href="https://code.visualstudio.com/" ><img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff" /></a>
   <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <br/>
+  <br/>
+  
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSciMeow" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSciMeow&theme=radical">
+  </div>
 
-  <img align="center"
-       height="150em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSciMeow" />
-  <img align="center"
-       src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSciMeow" />
+  
+  <div>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&row=1&no-bg=true" />
+  </div>
+  
+
+
 
   ****
-
-  <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSciMeow&theme=radical">
-  </p>
-  
 <details> 
 	<summary>折叠诗.txt</summary>
     
