@@ -14,11 +14,6 @@
   <br/>
   <br/>
   
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DavidSciMeow&show_icons=true&theme=tokyonight">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSciMeow" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSciMeow&theme=radical">
-  </div>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSciMeow" />
   
