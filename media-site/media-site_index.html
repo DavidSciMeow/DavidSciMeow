@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>媒体画廊 — DavidSciMeow</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="/my.svg" alt="logo" class="logo" onerror="this.style.display='none'"/>
+      <h1>我的媒体画廊</h1>
+    </div>
+    <div class="search">
+      <input id="globalSearch" placeholder="搜索文件名 / 标签..." aria-label="搜索媒体" />
+    </div>
+  </header>
+
+  <div class="container">
+    <aside id="sidebar" class="sidebar" aria-label="仓库目录">
+      <div class="sidebar-inner">
+        <div id="repoInfo" class="repo-info">
+          <div class="repo-name">DavidSciMeow / DavidSciMeow</div>
+        </div>
+        <nav id="tree" class="tree" role="tree" aria-label="仓库文件树">
+          <!-- tree nodes injected here -->
+        </nav>
+      </div>
+    </aside>
+
+    <main id="main" class="main" tabindex="-1">
+      <section class="controls">
+        <div id="currentPath" class="current-path">/</div>
+      </section>
+
+      <section id="gallery" class="gallery" aria-live="polite">
+        <p class="placeholder">展开左侧目录以查看该目录下的图片和视频。</p>
+      </section>
+    </main>
+  </div>
+
+  <!-- Modal -->
+  <div id="modal" class="modal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-panel" role="document">
+      <button id="modalClose" class="modal-close" aria-label="关闭 (Esc)">×</button>
+      <div id="modalContent" class="modal-content"></div>
+      <div id="modalCaption" class="modal-caption"></div>
+    </div>
+    <div class="modal-backdrop" tabindex="-1"></div>
+  </div>
+
+  <script src="assets/app.js" type="module"></script>
+</body>
+</html>
