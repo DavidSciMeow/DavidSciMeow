@@ -1,0 +1,22 @@
+[
+  {
+    "type": "image",
+    "src": "https://raw.githubusercontent.com/mdn/learning-area/master/css/images/fireworks.jpg",
+    "title": "示例图片：fireworks",
+    "tags": ["example","image"]
+  },
+  {
+    "type": "image",
+    "src": "https://raw.githubusercontent.com/mdn/learning-area/master/accessibility/screen-reader/alt-text/images/flower.jpg",
+    "title": "示例图片：flower",
+    "tags": ["example","image"]
+  },
+  {
+    "type": "video",
+    "src": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217",
+    "mime": "video/mp4",
+    "title": "示例视频：Big Buck Bunny (1MB)",
+    "tags": ["example","video"]
+  }
+]
