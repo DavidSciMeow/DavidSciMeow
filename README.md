@@ -17,14 +17,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidSciMeow" />
   
-  <div>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=DavidSciMeow&theme=onedark&row=1&no-bg=true" />
-  </div>
-  
 
-
-
-  ****
 <details> 
 	<summary>折叠诗.txt</summary>
     
@@ -36,10 +29,5 @@
   ### 是否 这就 是我坚持的理由
     
 </details>
- 
 
-  ****
-
-  <h1 align="right">访问计数板 <img align="center" src="https://profile-counter.glitch.me/davidscimeow/count.svg" /> </h1>
-  
 </div>
